@@ -1,8 +1,8 @@
-# 📈 French Industrial Production Index (IPI) Time Series Analysis
+# French Industrial Production Index (IPI) Time Series Analysis
 
 An end-to-end time series analysis and forecasting project built using **R**, focusing on the French Industrial Production Index (IPI) for the **Preparation of Fruit and Vegetable Juices** subsector (INSEE / NAF Rev. 2, Class 10.32).
 
-## 📄 Documentation & Code
+## Documentation & Code
 - **Full Report**: [`docs/Report.pdf`](docs/Report.pdf)
 - **Main R Script**: [`project1.R`](project1.R)
 - **Raw Data**: [`data/fruit_veg_juice_ipi.csv`](data/fruit_veg_juice_ipi.csv)
@@ -21,7 +21,7 @@ The objective of this study is to model production dynamics in the French juice 
 
 
 
-## 🛠️ Key Results
+## Key Results
 
 | Metric / Test | Result / Best Value | Conclusion |
 | :--- | :--- | :--- |
@@ -32,7 +32,7 @@ The objective of this study is to model production dynamics in the French juice 
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Ensure you have **R (>= 4.0)** installed along with the following packages:

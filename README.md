@@ -3,9 +3,9 @@
 An end-to-end time series analysis and forecasting project built using **R**, focusing on the French Industrial Production Index (IPI) for the **Preparation of Fruit and Vegetable Juices** subsector (INSEE / NAF Rev. 2, Class 10.32).
 
 ## Documentation & Code
-- **Full Report**: [`docs/Report.pdf`](docs/Report.pdf)
+- **Full Report**: [`docs/Report.pdf`](Report.pdf)
 - **Main R Script**: [`project1.R`](project1.R)
-- **Raw Data**: [`data/fruit_veg_juice_ipi.csv`](data/fruit_veg_juice_ipi.csv)
+- **Raw Data**: [`data/fruit_veg_juice_ipi.csv`](fruit_veg_juice_ipi.csv)
 
 ---
 
